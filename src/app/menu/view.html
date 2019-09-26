@@ -1,0 +1,104 @@
+<div  class="ui inverted menu sticky" #stickymenu_tag style="height: 66px !important">
+
+<!--
+    <app-typeahead-input *ngIf="env.menu.aiSearch"  style="width:25%; padding-bottom:0" class="item"
+                         [searchList]="searchList"
+                         [placeHolderText]="placeHolderText"
+                         [typeAheadIsInMenu]="typeAheadIsInMenu"
+                         (ArtificialIntelligenceEventEmitter)="emitBoardAIAddGadgetEvent($event)">
+    </app-typeahead-input>
+-->
+ <a class="item"
+(click)="toggleMenuSideBar()">
+        <em class="large inverted bars icon"></em>
+</a>
+    <div class="app-logo" title="App Logo"></div>
+    <div class="headerMiddle text-color">
+        <div  class="app-name "> GeoShield</div>
+        <div class="breadcrumbName"> Real Time Dashboard </div>
+    </div>
+        <div class="right inverted menu">
+            <a *ngIf="env.menu.notification"  class="item"
+               (click)="toggleNotificationSideBar()">
+                <em class="large inverted alarm icon"></em>
+               <!-- <div class="floating ui red label">
+                    <span style="font-size: 1.2em; font-weight: normal">4</span>
+                </div>-->
+            </a>
+        
+    
+     <!--  <a class="item"
+               (click)="addGadgetModal.showComponentLibraryModal('Add Gadget')">
+                <em class="large inverted plus icon"></em>
+            </a>
+        <a class="item"
+               (click)="toggleLayoutSideBar()">
+                <em class="large inverted grid layout icon"></em>
+            </a>
+           <a class="item"
+               (click)="boardConfigModal.showConfigurationModal('Configuration')">
+                <em class="large inverted setting icon"></em>
+            </a>
+    -->  
+      <a class="item" style="width: 100px;  cursor: default; padding: 6px;">
+        <div  class="theme-toggle toggle-small">
+                <input id="b" type="checkbox" (click)="onSetTheme('dark-theme')">
+                <label for="b">
+                <div class="toggle_switch" data-checked="Light" data-unchecked="Dark"></div>
+                </label>
+            </div>
+        </a>
+
+            <a class="item"
+               (click)="toggleUserProfileSideBar()">
+                <em class="large inverted user icon"></em>
+            </a>
+    
+        </div>
+    
+    </div>
+    
+    
+    <!-- the modal will emit an event and call the grid component to add the requested cell to the board -->
+    <app-add-gadget-modal #addGadgetModal
+                          (addGadgetEvent)="emitBoardAddGadgetEvent($event)">
+    </app-add-gadget-modal>
+    
+    <app-configuration-modal #boardConfigModal
+                                   (dashboardCreateEvent)="emitBoardCreateEvent($event)"
+                                   (dashboardEditEvent)="emitBoardEditEvent($event)"
+                                   (dashboardDeleteEvent)="emitBoardDeleteEvent($event)"
+                                   [dashboardList]="dashboardList">
+    
+    
+    </app-configuration-modal>
+    
+    
+    <!-- side bar content -->
+    <div class="ui sidebar inverted left vertical menu" #layoutMenuSideBar_tag>
+       
+            <a *ngFor="let board of dashboardList; let i = index" class="item"
+               [ngClass]="{'active':board == selectedBoard}"
+               (click)="emitBoardSelectEvent(board)">
+                {{board}}
+            </a>
+            <div class="bot-logo-position"> <div class="app-bottom-logo"></div></div>
+        </div>
+    
+    <div class="ui sidebar inverted right vertical menu" #notificationSideBar_tag>
+        <app-notification-modal></app-notification-modal>
+    </div>
+    
+    <!-- side bar content -->
+    <div class="ui sidebar inverted right vertical menu" #UserProfileSideBar_tag>
+        <app-UserProfile-modal></app-UserProfile-modal>
+    </div>
+    
+    
+    <div class="ui sidebar inverted right vertical menu" #layoutSideBar_tag>
+        <app-board-layout-manager-modal [layoutId]="layoutId"
+                                        (boardLayoutChangeEvent)="emitBoardChangeLayoutEvent($event)">
+        </app-board-layout-manager-modal>
+    </div>
+    
+    

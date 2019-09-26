@@ -1,0 +1,244 @@
+/* You can add global styles to this file, and also import other style files */
+@import "~@angular/material/prebuilt-themes/indigo-pink.css";
+@import url('https://js.arcgis.com/4.10/esri/css/main.css');
+@import '_icons.css';
+body{
+  
+    font-family: 'Fira Sans', sans-serif !important;
+   
+}
+.ui.grid>.column:not(.row), .ui.grid>.row>.column{
+    padding-left:0.2rem !important;
+    padding-right:0.2rem !important;
+}
+
+.dark-theme, .dark-theme.pushable{
+    background-color: #000 !important;
+	 color:#bdbdbd !important;
+}
+.light-theme, .light-theme.pushable{
+    background-color: #bdbdbd !important;
+	 color:#222 !important;
+}
+.toggleDayNight{display: flex; position: relative;}
+.switch {
+    top: 14px;
+    position: absolute;
+    left: -61px;
+}
+.ui.toggle.checkbox .box:before, .ui.toggle.checkbox label:before{
+    background: rgba(255,255,255,.5)!important;
+}
+.light-theme .ui.toggle.checkbox input:checked~.box:before, .light-theme .ui.toggle.checkbox input:checked~label:before{
+    background-color: #222!important;
+}
+.light-theme .ui.toggle.checkbox input:focus:checked~.box:before, .light-theme .ui.toggle.checkbox input:focus:checked~label:before{
+    background-color: #222!important;
+}
+ .dark-theme .ui.inverted.menu{
+    background-color: #2d3136!important;
+    border-bottom: 1px solid #363636;
+}
+.light-theme .ui.inverted.menu{
+    background-color: #fff!important;
+    border-bottom: 1px solid #f7f7f7;
+}
+.dark-theme .menu i.icon{
+    color:#fff!important;
+}
+.light-theme .menu i.icon{
+    color:#222!important;
+}
+.dark-theme .ui.inverted.menu .item:before {
+    background: rgba(255,255,255,.08) !important;
+}
+.light-theme .ui.inverted.menu .item:before {
+    background: rgba(0,0,0,.08) !important;
+}
+.app-logo{
+   text-align: left;
+   width: 158px;
+  }
+.dark-theme .app-logo{
+    background: url("/assets/images/generic-logo-white.png");
+    background-position: center;
+    background-repeat: no-repeat;
+   
+}
+.light-theme .app-logo{
+    background: url("/assets/images/generic-logo.png");
+    background-position: center;
+    background-repeat: no-repeat;
+  }
+  .bot-logo-position{
+    position: absolute;
+    bottom: 0px;
+    left: 0;
+    right: 0;
+    margin: 0 auto;
+    padding: 5px;
+    border-top: 1px solid #141414;
+  }
+  .app-bottom-logo{
+   height: 50px;
+   width: 158px;
+   margin: 0 auto;
+  }
+.dark-theme .app-bottom-logo{
+    background: url("/assets/images/spatialitics-logo.png");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+   
+}
+.light-theme .app-bottom-logo{
+    background: url("/assets/images/spatialitics-logo.png");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
+
+  .dark-theme .ui.segment {
+    background-color: #383d43!important;
+    border: 1px solid #363636!important;
+    border-radius: 0px;
+  }
+  .light-theme .ui.segment {
+    background-color: #fff!important;
+    border: 1px solid #f7f7f7!important;
+    border-radius: 0px;
+  } 
+  .dark-theme .ui.top.left.floated.label, .dark-theme .ui.top.attached.label {
+    background-color: transparent;
+    border-bottom: 1px solid #565555;
+    color:#bdbdbd;
+  }
+  .light-theme .ui.top.left.floated.label, .light-theme .ui.top.attached.label{
+    background-color: transparent;
+    border-bottom: 1px solid #f4f4f4;
+    color:#000;
+  }  
+  .dark-theme .panel-content{
+        border-top: 1px solid #565555;
+        }
+ .light-theme .panel-content{
+        border-top: 1px solid #f4f4f4;
+        }
+ .dark-theme .calList li {
+        border-bottom: 1px solid #565555;
+    }
+  .light-theme .calList li {
+        border-bottom: 1px solid #f4f4f4;
+    }
+  body.light-theme.pushable>.pusher{
+    background-color: #bdbdbd!important;
+    border-bottom: 1px solid #f7f7f7!important;
+  }
+  body.dark-theme.pushable>.pusher{
+    background-color: #000!important;
+  }
+  .ui.left.sidebar,   .ui.right.sidebar{
+      top:50px;
+      height:calc(100% - 50px) !important;
+  }
+  .dark-theme .modal, .dark-theme .content{
+    background-color: #383d43!important;
+}
+.light-theme .modal, .light-theme .content{
+    background-color:#fff!important;
+
+}
+.dark-theme .ui.modal>.header, .dark-theme .ui.modal>.actions{
+    background-color:#222!important;
+}
+.light-theme .ui.modal>.header, .light-theme .ui.modal>.actions{
+    background-color:#fff!important;
+}
+.ui.attached.info.message, .ui.info.message{
+    border-radius: 0px;
+  
+}
+.dark-theme .ui.info.message{
+    background-color: #222!important;
+    border: 1px solid #363636!important;
+    box-shadow: none;
+    color:#bdbdbd !important;
+}
+.light-theme .ui.info.message{
+    background-color: #fff!important;
+    border: 1px solid #f7f7f7!important;
+    box-shadow: none;
+    color:#000!important; 
+}
+.light-theme .ui.inverted.menu .item, .ui.inverted.menu .item>a:not(.ui){
+    color:#000!important; 
+}
+.light-theme .ui.inverted.menu .active.item, .light-theme .ui.inverted.menu .active.item:hover {
+    background: rgba(0,0,0,.15);
+    color:#000!important; 
+}
+.light-theme .text-color{
+    color: #222;
+}
+.dark-theme .text-color{
+    color: #bdbdbd;
+}
+.light-theme .brd-color{
+    border-color: #bdbdbd !important;
+}
+.dark-theme .brd-color{
+    border-color: #000 !important;
+}
+.ui.segment {
+    padding:0px !important;
+}
+.widgetheight{
+    height:100%;
+}
+.ui.grid>.row{
+    padding-top: 0.3rem !important;
+    padding-bottom: 0.3rem !important;
+    padding-left: .75rem !important;
+    padding-right: 0.75rem !important;
+}
+.ui.grid{
+    height: calc(100% - 48px);
+}
+.pushable>.pusher{
+    height: 100%;
+}
+.headerMiddle{
+    width: calc(100% - 450px);
+    text-align: center;
+}
+.app-name {
+    font-size: 24px;
+    text-align: center;
+    line-height: 24px;
+    margin: 2px;
+}
+.ui.vertical.inverted.menu .menu .item, .ui.vertical.inverted.menu .menu .item a:not(.ui) {
+    padding: 16px 16px !important;
+    font-size: 16px !important;
+}
+.ui.vertical.menu .menu .item{
+    padding: 16px 16px !important;
+}
+.esri-view{
+    height: calc(100% - 46px);
+    display: flex !important;
+}
+.esri-view-width-xsmall .esri-expand--auto .esri-expand__container--expanded {
+    position: relative !important;    
+    width: 100% !important;
+}
+
+.esri-view-width-xsmall .esri-expand--auto .esri-expand__mask--expanded {
+    background: transparent !important;
+}
+.esri-attribution__sources.esri-interactive{
+    display:none !important;
+}
+.esri-attribution__powered-by {
+    width: 100%;
+    }

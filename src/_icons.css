@@ -1,0 +1,138 @@
+em.icon {
+    display: inline-block; 
+    opacity: 1;
+    margin: 0 .25rem 0 0; 
+    width: 1.18em; 
+    height: 1em; 
+    font-family: Icons;
+    font-style: normal;
+    text-decoration: inherit;
+    text-align: center;
+    font-size: 18px;
+}
+em.icon.user:before { 
+    content: "\f007";
+}
+em.icon.lock:before {
+    content: "\f023";
+}
+em.icon.sign-out:before {
+    content: "\f2f5";
+}
+em.icon.alarm:before {
+    content: "\f0f3";
+}
+em.icon.bars:before {
+    content: "\f0c9";
+}
+em.icon.tag:before {
+    content: "\f02b"
+}
+em.icon.tags:before {
+    content: "\f02c"
+}
+em.icon.marker:before {
+    content: "\f041"
+}
+em.icon.key:before {
+    content: "\f084"
+}
+em.icon.search:before {
+    content: "\f002"
+}
+em.icon.search.minus:before {
+    content: "\f010"
+}
+em.icon.search.plus:before {
+    content: "\f00e"
+}
+em.icon.th.large:before {
+    content: "\f009"
+}
+em.icon.download:before {
+    content: "\f019"
+}
+em.icon.close:before {
+    content: "\f00d"
+}
+em.icon.chevron.circle.down:before {
+    content: "\f13a"
+}
+em.icon.chevron.circle.left:before {
+    content: "\f137"
+}
+em.icon.chevron.circle.right:before {
+    content: "\f138"
+}
+em.icon.chevron.circle.up:before {
+    content: "\f139"
+}
+em.icon.chevron.down:before {
+    content: "\f078"
+}
+em.icon.chevron.left:before {
+    content: "\f053"
+}
+em.icon.chevron.right:before {
+    content: "\f054"
+}
+em.icon.chevron.up:before {
+    content: "\f077"
+}
+em.icon.trash:before {
+    content: "\f1f8"
+}
+em.icon.info:before {
+    content: "\f129"
+}
+em.icon.setting:before {
+    content: "\f013"
+}
+em.icon.settings:before {
+    content: "\f085"
+}
+em.icon.play:before {
+    content: "\f04b"
+}
+em.icon.stop:before {
+    content: "\f04d"
+}
+em.icon.spinner:before {
+    content: "\f110"
+}
+em.icon.thumbs.down:before {
+    content: "\f165"
+}
+em.icon.thumbs.up:before {
+    content: "\f164"
+}
+em.icon.plus:before {
+    content: "\f067"
+}
+em.icon.grid.layout:before {
+    content: "\f00a"
+}
+em.icon.check:before {
+    content: "\f00c"
+}
+em.icon.remove:before {
+    content: "\f00d"
+}
+em.icon.window.maximize:before {
+    content: "\f2d0";
+}
+em.icon.window.minimize:before {
+    content: "\f2d1";
+}
+em.icon.window.maximize.outline:before{
+    content: "\f2d0";
+}
+em.icon.window.maximize.outline:before {
+    content: "\f2d0"
+}
+em.icon.window.minimize.outline:before {
+    content: "\f2d1"
+}
+em.icon.window.restore:before {
+    content: "\f2d2";
+}

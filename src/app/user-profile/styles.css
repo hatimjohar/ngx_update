@@ -1,0 +1,25 @@
+
+ul{
+    text-align: center;
+}
+h2, h3, h4{
+    font-weight: normal !important;
+}
+.profile-header{
+    padding: 10px 16px;
+    border-bottom: 1px solid;
+    font-size: 20px;
+    margin-bottom: 0px !important;
+    box-shadow: 2px 0 6px #000;
+}
+.userdetials{
+    padding: 10px 16px;
+    float: left;
+    width: 100%;
+    border-bottom: 1px solid;
+}
+.welcome{margin-right: 5px;}
+.ui.vertical.menu {
+        float: left;
+        width: 100% !important;
+}

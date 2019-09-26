@@ -1,0 +1,1091 @@
+[{
+	"heading": "Live CAD",
+	"summary": "",
+	"details": [{
+		"category": "LiveCad Widget",
+		"articles": [{
+			"headline": "",
+			"description": "",
+			"benefit": "",
+			"id": "",
+			"date": ""
+		}]
+	}],
+	"liveCADData": {
+		"features": [{
+			"geometry": {
+				"x": -13468226.0852238,
+				"y": 4529237.25800388
+			},
+			"attributes": {
+				"Case Number": "",
+				"CAD Report": "https://172.28.128.186/cadabstractserver/Report.aspx?sequencenumber=MP182210326&amp;reportFormat=1",
+				"Type": "CIVIL  CIVIL COMPLAINT",
+				"Status": "Pending",
+				"Beat": "MP12",
+				"Primary": "",
+				"Priority": "5",
+				"Handling": "",
+				"Origin": "CAD",
+				"Call Number": "MP100000",
+				"FF Address": "411 School St",
+				"CT_Agency": "MP",
+				"CT_CreateTime": "23-08-2018 17:38:26",
+				"holdtime": "22:37:15",
+				"Created": "17:38"
+			}
+		}, {
+			"geometry": {
+				"x": -13468226.0852238,
+				"y": 4529237.25800388
+			},
+			"attributes": {
+				"Case Number": "",
+				"CAD Report": "https://172.28.128.186/cadabstractserver/Report.aspx?sequencenumber=MP182210326&amp;reportFormat=1",
+				"Type": "CIVIL  CIVIL COMPLAINT",
+				"Status": "Pending",
+				"Beat": "MP12",
+				"Primary": "",
+				"Priority": "5",
+				"Handling": "",
+				"Origin": "CAD",
+				"Call Number": "MP182210329",
+				"FF Address": "3601 PELANDALE AVE, MO ( SAVE MART ) ( BLUE BIRD DR/GAGOS DR ) ( 31/D1 )",
+				"CT_Agency": "MP",
+				"CT_CreateTime": "24-08-2018 10:10:58",
+				"holdtime": "06:04:43",
+				"Created": "10:10"
+			}
+		}, {
+			"geometry": {
+				"x": -13468226.0852238,
+				"y": 4529237.25800388
+			},
+			"attributes": {
+				"Case Number": "",
+				"CAD Report": "https://172.28.128.186/cadabstractserver/Report.aspx?sequencenumber=MP182210326&amp;reportFormat=1",
+				"Type": "CIVIL  CIVIL COMPLAINT",
+				"Status": "Active",
+				"Beat": "MP12",
+				"Primary": "",
+				"Priority": "5",
+				"Handling": "",
+				"Origin": "CAD",
+				"Call Number": "MP182210329",
+				"FF Address": "3601 PELANDALE AVE, MO ( SAVE MART ) ( BLUE BIRD DR/GAGOS DR ) ( 31/D1 )",
+				"CT_Agency": "MP",
+				"CT_CreateTime": "24-08-2018 10:46:13",
+				"holdtime": "05:29:28",
+				"Created": "10:46"
+			}
+		}, {
+			"geometry": {
+				"x": -13468226.0852238,
+				"y": 4529237.25800388
+			},
+			"attributes": {
+				"Case Number": "",
+				"CAD Report": "https://172.28.128.186/cadabstractserver/Report.aspx?sequencenumber=MP182210326&amp;reportFormat=1",
+				"Type": "CIVIL  CIVIL COMPLAINT",
+				"Status": "Active",
+				"Beat": "MP12",
+				"Primary": "",
+				"Priority": "5",
+				"Handling": "",
+				"Origin": "CAD",
+				"Call Number": "MP182210329",
+				"FF Address": "3601 PELANDALE AVE, MO ( SAVE MART ) ( BLUE BIRD DR/GAGOS DR ) ( 31/D1 )",
+				"CT_Agency": "MP",
+				"CT_CreateTime": "24-08-2018 15:59:03",
+				"holdtime": "00:16:37",
+				"Created": "15:59"
+			}
+		}, {
+			"geometry": {
+				"x": -13468226.0852238,
+				"y": 4529237.25800388
+			},
+			"attributes": {
+				"Case Number": "",
+				"CAD Report": "https://172.28.128.186/cadabstractserver/Report.aspx?sequencenumber=MP182210326&amp;reportFormat=1",
+				"Type": "CIVIL  CIVIL COMPLAINT",
+				"Status": "Active",
+				"Beat": "MP12",
+				"Primary": "",
+				"Priority": "5",
+				"Handling": "",
+				"Origin": "CAD",
+				"Call Number": "MP182210329",
+				"FF Address": "3601 PELANDALE AVE, MO ( SAVE MART ) ( BLUE BIRD DR/GAGOS DR ) ( 31/D1 )",
+				"CT_Agency": "MP",
+				"CT_CreateTime": "24-08-2018 17:20:49",
+				"holdtime": "22:54:51",
+				"Created": "17:20"
+			}
+		}, {
+			"geometry": {
+				"x": -13468226.0852238,
+				"y": 4529237.25800388
+			},
+			"attributes": {
+				"Case Number": "",
+				"CAD Report": "https://172.28.128.186/cadabstractserver/Report.aspx?sequencenumber=MP182210326&amp;reportFormat=1",
+				"Type": "CIVIL  CIVIL COMPLAINT",
+				"Status": "Pending",
+				"Beat": "MP12",
+				"Primary": "",
+				"Priority": "5",
+				"Handling": "",
+				"Origin": "CAD",
+				"Call Number": "MP182210329",
+				"FF Address": "3601 PELANDALE AVE, MO ( SAVE MART ) ( BLUE BIRD DR/GAGOS DR ) ( 31/D1 )",
+				"CT_Agency": "MP",
+				"CT_CreateTime": "24-08-2018 17:21:47",
+				"holdtime": "22:53:53",
+				"Created": "17:21"
+			}
+		}, {
+			"geometry": {
+				"x": -13468226.0852238,
+				"y": 4529237.25800388
+			},
+			"attributes": {
+				"Case Number": "",
+				"CAD Report": "https://172.28.128.186/cadabstractserver/Report.aspx?sequencenumber=MP182210326&amp;reportFormat=1",
+				"Type": "CIVIL  CIVIL COMPLAINT",
+				"Status": "Pending",
+				"Beat": "MP12",
+				"Primary": "",
+				"Priority": "5",
+				"Handling": "",
+				"Origin": "CAD",
+				"Call Number": "MP182210329",
+				"FF Address": "3601 PELANDALE AVE, MO ( SAVE MART ) ( BLUE BIRD DR/GAGOS DR ) ( 31/D1 )",
+				"CT_Agency": "MP",
+				"CT_CreateTime": "24-08-2018 17:24:14",
+				"holdtime": "22:51:26",
+				"Created": "17:24"
+			}
+		}, {
+			"geometry": {
+				"x": -13468226.0852238,
+				"y": 4529237.25800388
+			},
+			"attributes": {
+				"Case Number": "",
+				"CAD Report": "https://172.28.128.186/cadabstractserver/Report.aspx?sequencenumber=MP182210326&amp;reportFormat=1",
+				"Type": "CIVIL  CIVIL COMPLAINT",
+				"Status": "Pending",
+				"Beat": "MP12",
+				"Primary": "",
+				"Priority": "5",
+				"Handling": "",
+				"Origin": "CAD",
+				"Call Number": "MP182210329",
+				"FF Address": "3601 PELANDALE AVE, MO ( SAVE MART ) ( BLUE BIRD DR/GAGOS DR ) ( 31/D1 )",
+				"CT_Agency": "MP",
+				"CT_CreateTime": "24-08-2018 17:24:19",
+				"holdtime": "22:51:21",
+				"Created": "17:24"
+			}
+		}, {
+			"geometry": {
+				"x": -13468226.0852238,
+				"y": 4529237.25800388
+			},
+			"attributes": {
+				"Case Number": "",
+				"CAD Report": "https://172.28.128.186/cadabstractserver/Report.aspx?sequencenumber=MP182210326&amp;reportFormat=1",
+				"Type": "CIVIL  CIVIL COMPLAINT",
+				"Status": "Pending",
+				"Beat": "MP12",
+				"Primary": "",
+				"Priority": "2",
+				"Handling": "",
+				"Origin": "CAD",
+				"Call Number": "MP182210329",
+				"FF Address": "3601 PELANDALE AVE, MO ( SAVE MART ) ( BLUE BIRD DR/GAGOS DR ) ( 31/D1 )",
+				"CT_Agency": "MP",
+				"CT_CreateTime": "24-08-2018 17:26:45",
+				"holdtime": "22:48:55",
+				"Created": "17:26"
+			}
+		}, {
+			"geometry": {
+				"x": -13468226.0852238,
+				"y": 4529237.25800388
+			},
+			"attributes": {
+				"Case Number": "",
+				"CAD Report": "https://172.28.128.186/cadabstractserver/Report.aspx?sequencenumber=MP182210326&amp;reportFormat=1",
+				"Type": "CIVIL  CIVIL COMPLAINT",
+				"Status": "Pending",
+				"Beat": "MP12",
+				"Primary": "",
+				"Priority": "2",
+				"Handling": "",
+				"Origin": "CAD",
+				"Call Number": "MP182210329",
+				"FF Address": "3601 PELANDALE AVE, MO ( SAVE MART ) ( BLUE BIRD DR/GAGOS DR ) ( 31/D1 )",
+				"CT_Agency": "MP",
+				"CT_CreateTime": "27-08-2018 10:15:49",
+				"holdtime": "05:59:51",
+				"Created": "10:15"
+			}
+		}, {
+			"geometry": {
+				"x": -13468226.0852238,
+				"y": 4529237.25800388
+			},
+			"attributes": {
+				"Case Number": "",
+				"CAD Report": "https://172.28.128.186/cadabstractserver/Report.aspx?sequencenumber=MP182210326&amp;reportFormat=1",
+				"Type": "CIVIL  CIVIL COMPLAINT",
+				"Status": "Pending",
+				"Beat": "MP12",
+				"Primary": "",
+				"Priority": "5",
+				"Handling": "",
+				"Origin": "CAD",
+				"Call Number": "MP1000001",
+				"FF Address": "test1",
+				"CT_Agency": "MP",
+				"CT_CreateTime": "23-08-2018 18:59:08",
+				"holdtime": "21:16:32",
+				"Created": "18:59"
+			}
+		}, {
+			"geometry": {
+				"x": -13468226.0852238,
+				"y": 4529237.25800388
+			},
+			"attributes": {
+				"Case Number": "",
+				"CAD Report": "https://172.28.128.186/cadabstractserver/Report.aspx?sequencenumber=MP182210326&amp;reportFormat=1",
+				"Type": "CIVIL  CIVIL COMPLAINT",
+				"Status": "Pending",
+				"Beat": "MP12",
+				"Primary": "",
+				"Priority": "2",
+				"Handling": "",
+				"Origin": "CAD",
+				"Call Number": "MP182210329",
+				"FF Address": "3601 PELANDALE AVE, MO ( SAVE MART ) ( BLUE BIRD DR/GAGOS DR ) ( 31/D1 )",
+				"CT_Agency": "MP",
+				"CT_CreateTime": "27-08-2018 13:03:29",
+				"holdtime": "03:12:11",
+				"Created": "13:03"
+			}
+		}, {
+			"geometry": {
+				"x": -13468226.0852238,
+				"y": 4529237.25800388
+			},
+			"attributes": {
+				"Case Number": "",
+				"CAD Report": "https://172.28.128.186/cadabstractserver/Report.aspx?sequencenumber=MP182210326&amp;reportFormat=1",
+				"Type": "CIVIL  CIVIL COMPLAINT",
+				"Status": "Pending",
+				"Beat": "MP12",
+				"Primary": "",
+				"Priority": "2",
+				"Handling": "",
+				"Origin": "CAD",
+				"Call Number": "MP182210329",
+				"FF Address": "3601 PELANDALE AVE, MO ( SAVE MART ) ( BLUE BIRD DR/GAGOS DR ) ( 31/D1 )",
+				"CT_Agency": "MP",
+				"CT_CreateTime": "27-08-2018 13:04:25",
+				"holdtime": "03:11:15",
+				"Created": "13:04"
+			}
+		}, {
+			"geometry": {
+				"x": -13468226.0852238,
+				"y": 4529237.25800388
+			},
+			"attributes": {
+				"Case Number": "",
+				"CAD Report": "https://172.28.128.186/cadabstractserver/Report.aspx?sequencenumber=MP182210326&amp;reportFormat=1",
+				"Type": "CIVIL  CIVIL COMPLAINT",
+				"Status": "Pending",
+				"Beat": "MP12",
+				"Primary": "",
+				"Priority": "6",
+				"Handling": "",
+				"Origin": "CAD",
+				"Call Number": "MP182210329",
+				"FF Address": "3601 PELANDALE AVE, MO ( SAVE MART ) ( BLUE BIRD DR/GAGOS DR ) ( 31/D1 )",
+				"CT_Agency": "MP",
+				"CT_CreateTime": "27-08-2018 13:05:51",
+				"holdtime": "03:09:49",
+				"Created": "13:05"
+			}
+		}, {
+			"geometry": {
+				"x": -13468226.0852238,
+				"y": 4529237.25800388
+			},
+			"attributes": {
+				"Case Number": "",
+				"CAD Report": "https://172.28.128.186/cadabstractserver/Report.aspx?sequencenumber=MP182210326&amp;reportFormat=1",
+				"Type": "CIVIL  CIVIL COMPLAINT",
+				"Status": "Active",
+				"Beat": "MP12",
+				"Primary": "",
+				"Priority": "6",
+				"Handling": "",
+				"Origin": "CAD",
+				"Call Number": "MP182210329",
+				"FF Address": "3601 PELANDALE AVE, MO ( SAVE MART ) ( BLUE BIRD DR/GAGOS DR ) ( 31/D1 )",
+				"CT_Agency": "MP",
+				"CT_CreateTime": "27-08-2018 13:11:38",
+				"holdtime": "03:04:02",
+				"Created": "13:11"
+			}
+		}, {
+			"geometry": {
+				"x": -13468226.0852238,
+				"y": 4529237.25800388
+			},
+			"attributes": {
+				"Case Number": "",
+				"CAD Report": "https://172.28.128.186/cadabstractserver/Report.aspx?sequencenumber=MP182210326&amp;reportFormat=1",
+				"Type": "CIVIL  CIVIL COMPLAINT",
+				"Status": "Active",
+				"Beat": "MP12",
+				"Primary": "",
+				"Priority": "6",
+				"Handling": "",
+				"Origin": "CAD",
+				"Call Number": "MP182210329",
+				"FF Address": "3601 PELANDALE AVE, MO ( SAVE MART ) ( BLUE BIRD DR/GAGOS DR ) ( 31/D1 )",
+				"CT_Agency": "MP",
+				"CT_CreateTime": "27-08-2018 14:27:27",
+				"holdtime": "01:48:13",
+				"Created": "14:27"
+			}
+		}, {
+			"geometry": {
+				"x": -13468226.0852238,
+				"y": 4529237.25800388
+			},
+			"attributes": {
+				"Case Number": "",
+				"CAD Report": "https://172.28.128.186/cadabstractserver/Report.aspx?sequencenumber=MP182210326&amp;reportFormat=1",
+				"Type": "CIVIL  CIVIL COMPLAINT",
+				"Status": "Pending",
+				"Beat": "MP12",
+				"Primary": "",
+				"Priority": "2",
+				"Handling": "",
+				"Origin": "CAD",
+				"Call Number": "MP182210329",
+				"FF Address": "3601 PELANDALE AVE, MO ( SAVE MART ) ( BLUE BIRD DR/GAGOS DR ) ( 31/D1 )",
+				"CT_Agency": "MP",
+				"CT_CreateTime": "28-08-2018 15:06:06",
+				"holdtime": "01:09:34",
+				"Created": "15:06"
+			}
+		}, {
+			"geometry": {
+				"x": -13468226.0852238,
+				"y": 4529237.25800388
+			},
+			"attributes": {
+				"Case Number": "",
+				"CAD Report": "https://172.28.128.186/cadabstractserver/Report.aspx?sequencenumber=MP182210326&amp;reportFormat=1",
+				"Type": "CIVIL  CIVIL COMPLAINT",
+				"Status": "Pending",
+				"Beat": "MP12",
+				"Primary": "",
+				"Priority": "2",
+				"Handling": "",
+				"Origin": "CAD",
+				"Call Number": "MP182210329",
+				"FF Address": "3601 PELANDALE AVE, MO ( SAVE MART ) ( BLUE BIRD DR/GAGOS DR ) ( 31/D1 )",
+				"CT_Agency": "MP",
+				"CT_CreateTime": "28-08-2018 15:06:17",
+				"holdtime": "01:09:23",
+				"Created": "15:06"
+			}
+		}, {
+			"geometry": {
+				"x": -13468226.0852238,
+				"y": 4529237.25800388
+			},
+			"attributes": {
+				"Case Number": "",
+				"CAD Report": "https://172.28.128.186/cadabstractserver/Report.aspx?sequencenumber=MP182210326&amp;reportFormat=1",
+				"Type": "CIVIL  CIVIL COMPLAINT",
+				"Status": "Pending",
+				"Beat": "MP12",
+				"Primary": "",
+				"Priority": "2",
+				"Handling": "",
+				"Origin": "CAD",
+				"Call Number": "MP182210329",
+				"FF Address": "3601 PELANDALE AVE, MO ( SAVE MART ) ( BLUE BIRD DR/GAGOS DR ) ( 31/D1 )",
+				"CT_Agency": "MP",
+				"CT_CreateTime": "28-08-2018 15:06:36",
+				"holdtime": "01:09:04",
+				"Created": "15:06"
+			}
+		}, {
+			"geometry": {
+				"x": -13468226.0852238,
+				"y": 4529237.25800388
+			},
+			"attributes": {
+				"Case Number": "",
+				"CAD Report": "https://172.28.128.186/cadabstractserver/Report.aspx?sequencenumber=MP182210326&amp;reportFormat=1",
+				"Type": "CIVIL  CIVIL COMPLAINT",
+				"Status": "Pending",
+				"Beat": "MP12",
+				"Primary": "",
+				"Priority": "2",
+				"Handling": "",
+				"Origin": "CAD",
+				"Call Number": "MP182210329",
+				"FF Address": "3601 PELANDALE AVE, MO ( SAVE MART ) ( BLUE BIRD DR/GAGOS DR ) ( 31/D1 )",
+				"CT_Agency": "MP",
+				"CT_CreateTime": "28-08-2018 17:43:37",
+				"holdtime": "22:32:03",
+				"Created": "17:43"
+			}
+		}, {
+			"geometry": {
+				"x": -13451158.9267274,
+				"y": 4525787.74373973
+			},
+			"attributes": {
+				"Case Number": "NULL",
+				"CAD Report": "https://172.28.128.186/cadabstractserver/Report.aspx?sequencenumber=MP182210148&amp;reportFormat=1",
+				"Type": "SA SPECIAL ASSIGNMENT",
+				"Status": "Active",
+				"Beat": "MP99",
+				"Primary": "L191",
+				"Priority": "6",
+				"Handling": "(A)L191",
+				"Origin": "SIA",
+				"Call Number": "MP182210148",
+				"FF Address": "FINANCE OFFICE",
+				"CT_Agency": "MP",
+				"CT_CreateTime": "30-12-1899 08:11:01",
+				"holdtime": "08:04:40",
+				"Created": "08:11"
+			}
+		}, {
+			"geometry": {
+				"x": -13469942.6682402,
+				"y": 4524581.90844017
+			},
+			"attributes": {
+				"Case Number": "MP18078318",
+				"CAD Report": "https://172.28.128.186/cadabstractserver/Report.aspx?sequencenumber=MP182210188&amp;reportFormat=1",
+				"Type": "1182 ACCIDENT-PROPERTY DAMAGE",
+				"Status": "On Scene",
+				"Beat": "MP31",
+				"Primary": "MQ31",
+				"Priority": "3",
+				"Handling": "(A)MQ31",
+				"Origin": "P911",
+				"Call Number": "MP182210188",
+				"FF Address": "CRATER AVE, MO / DALLAS ST, MO ( 52/F3 )",
+				"CT_Agency": "MP",
+				"CT_CreateTime": "30-12-1899 08:58:10",
+				"holdtime": "07:17:31",
+				"Created": "08:58"
+			}
+		}, {
+			"geometry": {
+				"x": -13475580.3091532,
+				"y": 4535413.50916223
+			},
+			"attributes": {
+				"Case Number": "NULL",
+				"CAD Report": "https://172.28.128.186/cadabstractserver/Report.aspx?sequencenumber=MP182210221&amp;reportFormat=1",
+				"Type": "SA SPECIAL ASSIGNMENT",
+				"Status": "Active",
+				"Beat": "MP63",
+				"Primary": "L222",
+				"Priority": "6",
+				"Handling": "(A)L222",
+				"Origin": "SIA",
+				"Call Number": "MP182210221",
+				"FF Address": "3401 DALE RD, MO ( THE APPLE STORE ) ( BRADEN AVE/VENEMAN AVE ) ( 31/E4 )",
+				"CT_Agency": "MP",
+				"CT_CreateTime": "30-12-1899 09:42:47",
+				"holdtime": "06:32:54",
+				"Created": "09:42"
+			}
+		}, {
+			"geometry": {
+				"x": -13468226.0852416,
+				"y": 4529237.25800388
+			},
+			"attributes": {
+				"Case Number": "MP18078348",
+				"CAD Report": "https://172.28.128.186/cadabstractserver/Report.aspx?sequencenumber=MP182210265&amp;reportFormat=1",
+				"Type": "488M  MAIL THEFT",
+				"Status": "On Scene",
+				"Beat": "MP81",
+				"Primary": "MQ81",
+				"Priority": "3",
+				"Handling": "(A)MQ81",
+				"Origin": "CAD",
+				"Call Number": "MP182210265",
+				"FF Address": "303 LA LOMA AVE, MO ( ) ( JAMES ST/MORTON WAY ) ( 46/B1 )",
+				"CT_Agency": "MP",
+				"CT_CreateTime": "30-12-1899 10:39:32",
+				"holdtime": "05:36:09",
+				"Created": "10:39"
+			}
+		}, {
+			"geometry": {
+				"x": -13468769.0433136,
+				"y": 4528578.03774878
+			},
+			"attributes": {
+				"Case Number": "MP18078350",
+				"CAD Report": "https://172.28.128.186/cadabstractserver/Report.aspx?sequencenumber=MP182210289&amp;reportFormat=1",
+				"Type": "488  PETTY THEFT",
+				"Status": "On Scene",
+				"Beat": "MP41",
+				"Primary": "MX42",
+				"Priority": "3",
+				"Handling": "(A)MX42",
+				"Origin": "CAD",
+				"Call Number": "MP182210289",
+				"FF Address": "529 14TH ST, MO ( ) ( E ST/F ST ) ( 46/A1 ) ; CEPS",
+				"CT_Agency": "MP",
+				"CT_CreateTime": "30-12-1899 11:07:10",
+				"holdtime": "05:08:31",
+				"Created": "11:07"
+			}
+		}, {
+			"geometry": {
+				"x": -13470963.1879918,
+				"y": 4529088.12504929
+			},
+			"attributes": {
+				"Case Number": "NULL",
+				"CAD Report": "https://172.28.128.186/cadabstractserver/Report.aspx?sequencenumber=MP182210302&amp;reportFormat=1",
+				"Type": "415F  FIGHT-FAMILY",
+				"Status": "On Scene",
+				"Beat": "MP33",
+				"Primary": "MQ33",
+				"Priority": "2",
+				"Handling": "(A)MQ33",
+				"Origin": "P911",
+				"Call Number": "MP182210302",
+				"FF Address": "1661 S HWY 99, MO ( HWY 99 08 KANSAS AVE/MAZE BLVD ) ( S HWY 99 ON RAMP/S HWY 99 OFF RAMP ) ( 45/E1 )",
+				"CT_Agency": "MP",
+				"CT_CreateTime": "30-12-1899 11:34:55",
+				"holdtime": "04:40:46",
+				"Created": "11:34"
+			}
+		}, {
+			"geometry": {
+				"x": -13468891.841864,
+				"y": 4531228.67845425
+			},
+			"attributes": {
+				"Case Number": "NULL",
+				"CAD Report": "https://172.28.128.186/cadabstractserver/Report.aspx?sequencenumber=MP182210303&amp;reportFormat=1",
+				"Type": "SA SPECIAL ASSIGNMENT",
+				"Status": "Active",
+				"Beat": "MP81",
+				"Primary": "MC10",
+				"Priority": "6",
+				"Handling": "(A)MC10",
+				"Origin": "SIA",
+				"Call Number": "MP182210303",
+				"FF Address": "1026 MC HENRY AVE, MO ( ) ( E FAIRMONT AVE/CORSON AVE ) ; ( 42/A2 )",
+				"CT_Agency": "MP",
+				"CT_CreateTime": "30-12-1899 11:35:48",
+				"holdtime": "04:39:53",
+				"Created": "11:35"
+			}
+		}, {
+			"geometry": {
+				"x": -13473437.0186329,
+				"y": 4533022.44480736
+			},
+			"attributes": {
+				"Case Number": "MP18078358",
+				"CAD Report": "https://172.28.128.186/cadabstractserver/Report.aspx?sequencenumber=MP182210311&amp;reportFormat=1",
+				"Type": "488IC  PETTY THEFT-IN CUSTODY",
+				"Status": "On Scene",
+				"Beat": "MP62",
+				"Primary": "MQ63",
+				"Priority": "3",
+				"Handling": "(A)MQ63",
+				"Origin": "CAD",
+				"Call Number": "MP182210311",
+				"FF Address": "2200 PLAZA PKWY, MO ( WINCO ) ( PRESCOTT RD/SISK RD ) ( 36/B3 )",
+				"CT_Agency": "MP",
+				"CT_CreateTime": "30-12-1899 11:50:46",
+				"holdtime": "04:24:55",
+				"Created": "11:50"
+			}
+		}, {
+			"geometry": {
+				"x": -13476201.91428,
+				"y": 4537155.59993651
+			},
+			"attributes": {
+				"Case Number": "NULL",
+				"CAD Report": "https://172.28.128.186/cadabstractserver/Report.aspx?sequencenumber=MP182210312&amp;reportFormat=1",
+				"Type": "1125  DISABLED VEHICLE/STRANDED MOTORIST",
+				"Status": "On Scene",
+				"Beat": "MP63",
+				"Primary": "M361",
+				"Priority": "2",
+				"Handling": "(A)M361",
+				"Origin": "SIA",
+				"Call Number": "MP182210312",
+				"FF Address": "3500 PELANDALE AVE, MO ( ) ( BLUE BIRD DR/GAGOS DR ) ( 31/E2 )",
+				"CT_Agency": "MP",
+				"CT_CreateTime": "30-12-1899 11:55:13",
+				"holdtime": "04:20:28",
+				"Created": "11:55"
+			}
+		}, {
+			"geometry": {
+				"x": -13469000.4625437,
+				"y": 4533614.57364325
+			},
+			"attributes": {
+				"Case Number": "MP18078355",
+				"CAD Report": "https://172.28.128.186/cadabstractserver/Report.aspx?sequencenumber=MP182210314&amp;reportFormat=1",
+				"Type": "1182 ACCIDENT-PROPERTY DAMAGE",
+				"Status": "On Scene",
+				"Beat": "MP82",
+				"Primary": "MX83",
+				"Priority": "3",
+				"Handling": "(A)MX83",
+				"Origin": "SIA",
+				"Call Number": "MP182210314",
+				"FF Address": "MC HENRY AVE, MO / MARK RANDY PL, MO ( 37/A3 )",
+				"CT_Agency": "MP",
+				"CT_CreateTime": "30-12-1899 12:00:29",
+				"holdtime": "04:15:12",
+				"Created": "12:00"
+			}
+		}, {
+			"geometry": {
+				"x": -13468229.1961956,
+				"y": 4536819.90614854
+			},
+			"attributes": {
+				"Case Number": "NULL",
+				"CAD Report": "https://172.28.128.186/cadabstractserver/Report.aspx?sequencenumber=MP182210317&amp;reportFormat=1",
+				"Type": "FOUND PROPERTY",
+				"Status": "On Scene",
+				"Beat": "MP83",
+				"Primary": "MQ83",
+				"Priority": "3",
+				"Handling": "(A)MQ83",
+				"Origin": "SIA",
+				"Call Number": "MP182210317",
+				"FF Address": "4113 DYNASTY LN, MO ( ) ( DREAM LN/GRECIAN AVE ) ( 33/B2 )",
+				"CT_Agency": "MP",
+				"CT_CreateTime": "30-12-1899 12:05:56",
+				"holdtime": "04:09:45",
+				"Created": "12:05"
+			}
+		}, {
+			"geometry": {
+				"x": -13475204.2052916,
+				"y": 4535048.08996444
+			},
+			"attributes": {
+				"Case Number": "NULL",
+				"CAD Report": "https://172.28.128.186/cadabstractserver/Report.aspx?sequencenumber=MP182210319&amp;reportFormat=1",
+				"Type": "BOL  BE ON THE LOOKOUT",
+				"Status": "On Scene",
+				"Beat": "MP63",
+				"Primary": "MX62",
+				"Priority": "4",
+				"Handling": "(A)MX62",
+				"Origin": "CAD",
+				"Call Number": "MP182210319",
+				"FF Address": "DALE RD, MO / STANDIFORD AVE, MO ( 35/F1 )",
+				"CT_Agency": "MP",
+				"CT_CreateTime": "30-12-1899 12:07:42",
+				"holdtime": "04:07:59",
+				"Created": "12:07"
+			}
+		}, {
+			"geometry": {
+				"x": -13462990.5029574,
+				"y": 4534736.01165211
+			},
+			"attributes": {
+				"Case Number": "NULL",
+				"CAD Report": "https://172.28.128.186/cadabstractserver/Report.aspx?sequencenumber=MP182210322&amp;reportFormat=1",
+				"Type": "EMS  MEDICAL AID",
+				"Status": "On Scene",
+				"Beat": "MP73",
+				"Primary": "NULL",
+				"Priority": "3",
+				"Handling": "NULL",
+				"Origin": "P911",
+				"Call Number": "MP182210322",
+				"FF Address": "3100 DOVEHOUSE LN, MO ( ) ( CHESSWELL DR/MALVERN LN ) ( 38/B1 )",
+				"CT_Agency": "MP",
+				"CT_CreateTime": "30-12-1899 12:11:15",
+				"holdtime": "04:04:26",
+				"Created": "12:11"
+			}
+		}, {
+			"geometry": {
+				"x": -13471579.0850991,
+				"y": 4535699.61014192
+			},
+			"attributes": {
+				"Case Number": "NULL",
+				"CAD Report": "https://172.28.128.186/cadabstractserver/Report.aspx?sequencenumber=MP182210324&amp;reportFormat=1",
+				"Type": "EMS  MEDICAL AID",
+				"Status": "Pending",
+				"Beat": "MP63",
+				"Primary": "NULL",
+				"Priority": "3",
+				"Handling": "NULL",
+				"Origin": "P911",
+				"Call Number": "MP182210324",
+				"FF Address": "3504 LONGBRIDGE DR, MO ( ) ( STANDIFORD AVE/KINGSLAND LN ) ( 32/D4 ) ; DUPLEX",
+				"CT_Agency": "MP",
+				"CT_CreateTime": "30-12-1899 12:11:59",
+				"holdtime": "04:03:42",
+				"Created": "12:11"
+			}
+		}, {
+			"geometry": {
+				"x": -13468240.6309658,
+				"y": 4524908.3269796
+			},
+			"attributes": {
+				"Case Number": "NULL",
+				"CAD Report": "https://172.28.128.186/cadabstractserver/Report.aspx?sequencenumber=MP182210326&amp;reportFormat=1",
+				"Type": "10851  STOLEN VEHICLE",
+				"Status": "Enroute",
+				"Beat": "MP31",
+				"Primary": "M371",
+				"Priority": "3",
+				"Handling": "(A)M371",
+				"Origin": "CAD",
+				"Call Number": "MP182210326",
+				"FF Address": "505 BROADWAY AVE, MO ( ) ( ALAMO AVE/BOULDER AVE ) ( 53/B3 )",
+				"CT_Agency": "MP",
+				"CT_CreateTime": "30-12-1899 12:14:00",
+				"holdtime": "04:01:41",
+				"Created": "12:14"
+			}
+		}, {
+			"geometry": {
+				"x": -13468424.1389631,
+				"y": 4529331.22784318
+			},
+			"attributes": {
+				"Case Number": "NULL",
+				"CAD Report": "https://172.28.128.186/cadabstractserver/Report.aspx?sequencenumber=MP182210327&amp;reportFormat=1",
+				"Type": "TSTOP TRAFFIC STOP",
+				"Status": "Active",
+				"Beat": "MP41",
+				"Primary": "MT8",
+				"Priority": "6",
+				"Handling": "(A)MT8",
+				"Origin": "SIA",
+				"Call Number": "MP182210327",
+				"FF Address": "BURNEY ST, MO / LA LOMA AVE, MO ( 42/B4 )",
+				"CT_Agency": "MP",
+				"CT_CreateTime": "30-12-1899 12:15:35",
+				"holdtime": "04:00:06",
+				"Created": "12:15"
+			}
+		}, {
+			"geometry": {
+				"x": -13461422.3404485,
+				"y": 4528945.80140851
+			},
+			"attributes": {
+				"Case Number": "NULL",
+				"CAD Report": "https://172.28.128.186/cadabstractserver/Report.aspx?sequencenumber=MP182210328&amp;reportFormat=1",
+				"Type": "INVEST  FOLLOW-UP INVESTIGATION",
+				"Status": "Active",
+				"Beat": "MP43",
+				"Primary": "NULL",
+				"Priority": "6",
+				"Handling": "NULL",
+				"Origin": "CAD",
+				"Call Number": "MP182210328",
+				"FF Address": "312 ANSONVILLE LN, MO ( ) ( DOTHAN DR/EFFINGHAM LN ) ( 47/D1 )",
+				"CT_Agency": "MP",
+				"CT_CreateTime": "30-12-1899 12:16:50",
+				"holdtime": "03:58:51",
+				"Created": "12:16"
+			}
+		}, {
+			"geometry": {
+				"x": -13476507.530751,
+				"y": 4537319.73363819
+			},
+			"attributes": {
+				"Case Number": "NULL",
+				"CAD Report": "https://172.28.128.186/cadabstractserver/Report.aspx?sequencenumber=MP182210329&amp;reportFormat=1",
+				"Type": "BOL  BE ON THE LOOKOUT",
+				"Status": "Active",
+				"Beat": "MP63",
+				"Primary": "NULL",
+				"Priority": "4",
+				"Handling": "NULL",
+				"Origin": "CAD",
+				"Call Number": "MP182210329",
+				"FF Address": "3601 PELANDALE AVE, MO ( SAVE MART ) ( BLUE BIRD DR/GAGOS DR ) ( 31/D1 )",
+				"CT_Agency": "MP",
+				"CT_CreateTime": "30-12-1899 12:17:08",
+				"holdtime": "03:58:33",
+				"Created": "12:17"
+			}
+		}, {
+			"geometry": {
+				"x": -13470357.6573767,
+				"y": 4522715.96609973
+			},
+			"attributes": {
+				"Case Number": "NULL",
+				"CAD Report": "https://172.28.128.186/cadabstractserver/Report.aspx?sequencenumber=MP182210330&amp;reportFormat=1",
+				"Type": "415F  FIGHT-FAMILY",
+				"Status": "Active",
+				"Beat": "MP31",
+				"Primary": "NULL",
+				"Priority": "2",
+				"Handling": "NULL",
+				"Origin": "P911",
+				"Call Number": "MP182210330",
+				"FF Address": "2201 MANHATTAN WAY, MO ( ) ( MARIN AVE/RHYTHMS DR ) ( 58/E2 )",
+				"CT_Agency": "MP",
+				"CT_CreateTime": "30-12-1899 12:17:13",
+				"holdtime": "03:58:28",
+				"Created": "12:17"
+			}
+		}, {
+			"geometry": {
+				"x": -13451158.9267274,
+				"y": 4525787.74373973
+			},
+			"attributes": {
+				"Case Number": "MP18078359",
+				"CAD Report": "https://172.28.128.186/cadabstractserver/Report.aspx?sequencenumber=MP182210331&amp;reportFormat=1",
+				"Type": "CIVIL  CIVIL COMPLAINT",
+				"Status": "Available",
+				"Beat": "TRU",
+				"Primary": "NULL",
+				"Priority": "3",
+				"Handling": "NULL",
+				"Origin": "CAD",
+				"Call Number": "MP182210331",
+				"FF Address": "316 EMERSON AVE , MO",
+				"CT_Agency": "MP",
+				"CT_CreateTime": "30-12-1899 12:18:07",
+				"holdtime": "03:57:34",
+				"Created": "12:18"
+			}
+		}, {
+			"geometry": {
+				"x": -13464913.2118146,
+				"y": 4535515.4397707
+			},
+			"attributes": {
+				"Case Number": "NULL",
+				"CAD Report": "https://172.28.128.186/cadabstractserver/Report.aspx?sequencenumber=MP182210333&amp;reportFormat=1",
+				"Type": "SSTOP",
+				"Status": "On Scene",
+				"Beat": "MP73",
+				"Primary": "MX72",
+				"Priority": "3",
+				"Handling": "(A)MX72",
+				"Origin": "SIA",
+				"Call Number": "MP182210333",
+				"FF Address": "3460 OAKDALE RD, MO ( STOP N SAVE ) ( POST OFFICE DR/SYLVAN AVE ) ( 33/F4 )",
+				"CT_Agency": "MP",
+				"CT_CreateTime": "30-12-1899 12:18:58",
+				"holdtime": "03:56:43",
+				"Created": "12:18"
+			}
+		}, {
+			"geometry": {
+				"x": -13468372.6207642,
+				"y": 4529259.78912363
+			},
+			"attributes": {
+				"Case Number": "NULL",
+				"CAD Report": "https://172.28.128.186/cadabstractserver/Report.aspx?sequencenumber=MP182210334&amp;reportFormat=1",
+				"Type": "TSTOP TRAFFIC STOP",
+				"Status": "Active",
+				"Beat": "MP41",
+				"Primary": "MT9",
+				"Priority": "6",
+				"Handling": "(A)MT9",
+				"Origin": "SIA",
+				"Call Number": "MP182210334",
+				"FF Address": "110 LA LOMA AVE, MO ( QUIK STOP ) ( BURNEY ST/RUE DE YOE ) ( 46/B1 )",
+				"CT_Agency": "MP",
+				"CT_CreateTime": "30-12-1899 12:20:53",
+				"holdtime": "03:54:48",
+				"Created": "12:20"
+			}
+		}, {
+			"geometry": {
+				"x": -13470243.0365736,
+				"y": 4536221.99442913
+			},
+			"attributes": {
+				"Case Number": "NULL",
+				"CAD Report": "https://172.28.128.186/cadabstractserver/Report.aspx?sequencenumber=MP182210335&amp;reportFormat=1",
+				"Type": "SECCK  SECURITY CHECK",
+				"Status": "Active",
+				"Beat": "MP83",
+				"Primary": "NULL",
+				"Priority": "2",
+				"Handling": "NULL",
+				"Origin": "CAD",
+				"Call Number": "MP182210335",
+				"FF Address": "837 W UNION AVE, MO ( ) ( WINEGARDEN DR/WHIRLAWAY DR ) ( 32/F3 )",
+				"CT_Agency": "MP",
+				"CT_CreateTime": "30-12-1899 12:21:22",
+				"holdtime": "03:54:19",
+				"Created": "12:21"
+			}
+		}, {
+			"geometry": {
+				"x": -13451158.9267274,
+				"y": 4525787.74373973
+			},
+			"attributes": {
+				"Case Number": "NULL",
+				"CAD Report": "https://172.28.128.186/cadabstractserver/Report.aspx?sequencenumber=MP182210336&amp;reportFormat=1",
+				"Type": "INVEST  FOLLOW-UP INVESTIGATION",
+				"Status": "Active",
+				"Beat": "MP99",
+				"Primary": "MX82",
+				"Priority": "6",
+				"Handling": "(A)MX82",
+				"Origin": "SIA",
+				"Call Number": "MP182210336",
+				"FF Address": "325 STANDIFORD AVE #12",
+				"CT_Agency": "MP",
+				"CT_CreateTime": "30-12-1899 12:22:22",
+				"holdtime": "03:53:19",
+				"Created": "12:22"
+			}
+		}, {
+			"geometry": {
+				"x": -13468226.0852238,
+				"y": 4529237.25800388
+			},
+			"attributes": {
+				"Case Number": "",
+				"CAD Report": "https://172.28.128.186/cadabstractserver/Report.aspx?sequencenumber=MP182210326&amp;reportFormat=1",
+				"Type": "CIVIL  CIVIL COMPLAINT",
+				"Status": "Pending",
+				"Beat": "MP12",
+				"Primary": "",
+				"Priority": "5",
+				"Handling": "",
+				"Origin": "CAD",
+				"Call Number": "MP182210329",
+				"FF Address": "3601 PELANDALE AVE, MO ( SAVE MART ) ( BLUE BIRD DR/GAGOS DR ) ( 31/D1 )",
+				"CT_Agency": "MP",
+				"CT_CreateTime": "21-08-2018 11:39:52",
+				"holdtime": "04:35:48",
+				"Created": "11:39"
+			}
+		}],
+		"spatialReference": {
+			"wkid": 102100
+		},
+		"GeometryTypeEnum": 2,
+		"geometryType": "esriGeometryPoint",
+		"fieldAliases": {},
+		"fields": [{
+			"name": "Case Number",
+			"type": "esriFieldTypeString",
+			"alias": "Case Number",
+			"length": 0
+		}, {
+			"name": "CAD Report",
+			"type": "esriFieldTypeString",
+			"alias": "CAD Report",
+			"length": 0
+		}, {
+			"name": "Type",
+			"type": "esriFieldTypeString",
+			"alias": "Type",
+			"length": 0
+		}, {
+			"name": "Status",
+			"type": "esriFieldTypeString",
+			"alias": "Status",
+			"length": 0
+		}, {
+			"name": "Beat",
+			"type": "esriFieldTypeString",
+			"alias": "Beat",
+			"length": 0
+		}, {
+			"name": "Primary",
+			"type": "esriFieldTypeString",
+			"alias": "Primary",
+			"length": 0
+		}, {
+			"name": "Priority",
+			"type": "esriFieldTypeDouble",
+			"alias": "Priority",
+			"length": 0
+		}, {
+			"name": "Handling",
+			"type": "esriFieldTypeString",
+			"alias": "Handling",
+			"length": 0
+		}, {
+			"name": "Origin",
+			"type": "esriFieldTypeString",
+			"alias": "Origin",
+			"length": 0
+		}, {
+			"name": "Call Number",
+			"type": "esriFieldTypeOID",
+			"alias": "Call Number",
+			"length": 0
+		}, {
+			"name": "FF Address",
+			"type": "esriFieldTypeString",
+			"alias": "FF Address",
+			"length": 0
+		}, {
+			"name": "CT_Agency",
+			"type": "esriFieldTypeString",
+			"alias": "CT_Agency",
+			"length": 0
+		}, {
+			"name": "CT_CreateTime",
+			"type": "esriFieldTypeDate",
+			"alias": "CT_CreateTime",
+			"length": 0
+		}, {
+			"name": "holdtime",
+			"type": "esriFieldTypeUnknown",
+			"alias": "holdtime",
+			"length": 0
+		}, {
+			"name": "Created",
+			"type": "esriFieldTypeString",
+			"alias": "Created",
+			"length": 0
+		}],
+		"displayFieldName": "Call Number",
+		"exceededTransferLimit": false
+	}
+}]

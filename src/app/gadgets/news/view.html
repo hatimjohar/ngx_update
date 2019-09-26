@@ -1,0 +1,57 @@
+<div  class="ui center aligned segment gadget" dnd-draggable
+  style="height:calc(50% - 3px)" [dragEnabled]="false" [dragData]="instanceId" [dropZones]="['c0','c1','c2','c3','r0','r1']">
+
+   <!-- <app-gadget-header
+            (mouseover)='showGadgetControls(true)'
+            (mouseleave)='showGadgetControls(false)'
+            [globalOptions]='globalOptions'
+            [title]='title'
+            [inRun]='inRun'
+            [inConfig]='inConfig'
+            [actionInitiated]='actionInitiated'
+            [showOperationControls]='showOperationControls'
+            [gadgetHasOperationControls]='gadgetHasOperationControls'
+            [showConfigurationControl]='showConfigurationControl'
+            [showControls]='showControls'
+            (toggleConfigModeEvent)='toggleConfigMode()'
+            (removeEvent)='remove()'
+            (runEvent)='run()'
+            (stopEvent)='stop()'>
+    </app-gadget-header>-->
+
+    <div *ngIf="!inConfig" style="overflow-y:auto;" >
+        <div *ngFor="let release of news" >
+            <h3>{{release.heading}}</h3>
+            <div *ngFor="let detail of release.details" class="ui">
+                <h4 style="font-weight:500 !important">{{detail.category}}</h4>
+
+                <div class="ui divided items">
+                    <div class="item" *ngFor="let article of detail.articles">
+                        <div class="content">
+                            <span>{{article.date}}</span>
+                            <br>
+                         
+                            <div class="description">
+                                <p>{{article.description}}</p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <app-dynamic-form *ngIf="inConfig"
+                  [gadgetTags]="gadgetTags"
+                  [propertyPages]="propertyPages"
+                  [instanceId]="instanceId"
+                  (updatePropertiesEvent)="updateProperties($event)">
+    </app-dynamic-form>
+
+    <app-error-handler
+            [errorObject]="errorObject"
+            [errorExists]="errorExists">
+    </app-error-handler>
+
+</div>
+

@@ -1,0 +1,70 @@
+<div id="liveCad" class="ui center aligned segment gadget" dnd-draggable style="height:calc(50% - 3px)" [dragEnabled]="false"
+    [dragData]="instanceId" [dropZones]="['c0','c1','c2','c3','r0','r1']">
+
+    <app-gadget-header
+            (mouseover)='showGadgetControls(false)'
+            (mouseleave)='showGadgetControls(false)'
+            [globalOptions]='globalOptions'
+            [title]='title'
+            [inRun]='false'
+            [inConfig]='false'
+            [actionInitiated]='false'
+            [showOperationControls]='false'
+            [gadgetHasOperationControls]='false'
+            [showConfigurationControl]='false'
+            [showControls]='false'
+            [showfullScreen]='true'
+            (toggleConfigModeEvent)='toggleConfigMode()'
+            (removeEvent)='remove()'
+            (runEvent)='run()'
+            (stopEvent)='stop()'>
+    </app-gadget-header> 
+
+    <div  *ngIf="!inConfig" class="gadget-pane-scroll">
+        <div  class="gadget-height" *ngFor="let release of liveCad">
+            <div  *ngFor='let detail of release.details' class="ui gadget-height">
+                <!--   <h4 style="font-weight:500 !important">{{detail.category}}</h4> -->
+
+                <div class="ui divided items gadget-height">
+                    <div class="item">
+                        <div class="content">
+                            <div class="capsuleBar">
+                                <span class="capsuleText">Pending</span>
+                                <span class="capsuleBarCircle">10</span>
+                            </div>
+                        </div>
+                    </div>
+                    <div style="height:calc(100% - 50px);">
+                    <div class="content-scroll-pane panel-content">
+                        <div class="callListPanel">
+                            <ul class="calList">
+                                <div class="item" *ngFor="let feature of pandingData">
+                                    <li (click)="cadRowClicked($event)" (mouseenter) ="cadRowMouseEnter('div a') " >
+                                        <div class="priority-pane">
+                                            <span class="prioritylbl">{{feature.attributes.Priority}}</span>
+                                            <span class="priority priority-urgent"></span>
+                                        </div>
+                                        <div class="callDetails">
+                                            <div class="call-type">{{feature.attributes.Type}}</div>
+                                            <div class="address-pane">{{feature.attributes['FF Address']}} </div>
+                                            <div class="date-Time">{{feature.attributes.CT_CreateTime}} </div>
+                                        </div>
+                                    </li>
+                                </div>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <app-dynamic-form *ngIf="inConfig" [gadgetTags]="gadgetTags" [propertyPages]="propertyPages"
+        [instanceId]="instanceId" (updatePropertiesEvent)="updateProperties($event)">
+    </app-dynamic-form>
+
+    <app-error-handler [errorObject]="errorObject" [errorExists]="errorExists">
+    </app-error-handler>
+
+</div>

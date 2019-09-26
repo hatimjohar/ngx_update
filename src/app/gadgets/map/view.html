@@ -1,0 +1,39 @@
+<div id="map" class="ui center aligned segment gadget" dnd-draggable
+style="height:calc(100% - 1px);"    [dragEnabled]="false" [dragData]="instanceId" [dropZones]="['c0','c1','c2','c3','r0','r1']">
+
+    <app-gadget-header
+            (mouseover)='showGadgetControls(false)'
+            (mouseleave)='showGadgetControls(false)'
+            [globalOptions]='globalOptions'
+            [title]='title'
+            [inRun]='false'
+            [inConfig]='false'
+            [actionInitiated]='false'
+            [showOperationControls]='false'
+            [gadgetHasOperationControls]='false'
+            [showConfigurationControl]='false'
+            [showControls]='false'
+            [showfullScreen]='true'
+            (toggleConfigModeEvent)='toggleConfigMode()'
+            (removeEvent)='remove()'
+            (runEvent)='run()'
+            (stopEvent)='stop()'>
+    </app-gadget-header> 
+
+
+    <div  #mapViewNode></div>
+
+    <app-dynamic-form *ngIf="inConfig"
+                  [gadgetTags]="gadgetTags"
+                  [propertyPages]="propertyPages"
+                  [instanceId]="instanceId"
+                  (updatePropertiesEvent)="updateProperties($event)">
+    </app-dynamic-form>
+
+    <app-error-handler
+            [errorObject]="errorObject"
+            [errorExists]="errorExists">
+    </app-error-handler>
+
+</div>
+
