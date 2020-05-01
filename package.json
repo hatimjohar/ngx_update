@@ -14,7 +14,9 @@
     "test": "ng test",
     "lint": "ng lint",
     "e2e": "ng e2e",
-    "sonar": "sonar-scanner"
+    "sonar": "sonar-scanner",
+    "snyk-protect": "snyk protect",
+    "prepare": "npm run snyk-protect"
   },
   "private": true,
   "dependencies": {
@@ -37,7 +39,7 @@
     "d3-shape": "^1.2.2",
     "extend": "^3.0.2",
     "fstream": "^1.0.12",
-    "jquery": "^3.3.1",
+    "jquery": "^3.5.0",
     "lodash": "^4.17.15",
     "material-design-icons": "^3.0.1",
     "minimatch": "3.0.2",
@@ -56,7 +58,8 @@
     "tslib": "^1.9.0",
     "zone.js": "^0.9.1",
     "@types/arcgis-js-api": "^4.10.0",
-    "esri-loader": "2.10.0"
+    "esri-loader": "2.10.0",
+    "snyk": "^1.316.1"
   },
   "devDependencies": {
     "@angular-devkit/build-angular": "^0.800.6",
@@ -81,5 +84,6 @@
     "tslint": "^5.20.0",
     "typescript": "3.4.5",
     "webpack": "^4.40.2"
-  }
+  },
+  "snyk": true
 }
