@@ -49,7 +49,7 @@
     "rxjs": "^6.5.3",
     "semantic-ui": "^2.4.2",
     "set-value": "^3.0.1",
-    "socket.io-client": "^2.1.1",
+    "socket.io-client": "^2.4.0",
     "sockjs-client": "^1.3.0",
     "stompjs": "^2.3.3",
     "tar": "^4.4.2",
